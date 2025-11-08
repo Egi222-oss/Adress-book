@@ -1,5 +1,5 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a3fefe1e-a5c0-4e58-9e99-36d3994db05a" /># Address book
- Aplikasi buku alamat sederhana untuk menyimpan dan mengelola informasi kontak.
+# Address book
+Address book Aplikasi buku alamat sederhana untuk menyimpan dan mengelola informasi kontak.
 # Link
  - Url Deployment:
  - Repisitory
@@ -24,3 +24,4 @@ flowchart TD
     H --> B
     I --> B
     B --> J[End]
+
