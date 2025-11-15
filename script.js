@@ -19,14 +19,15 @@ const contacts = [
         phone: "8081074756839",
         email: "Filda@exemple.com",
         location: "Sambas",
-    },    {
+    },    
+    {
         id: 4,
         name: "Adityanda",
         phone: "8087137410593",
         email: "adtiya@exmple.com",
         location: "Sambas",
     },
-        {
+    {
         id: 5,
         name: "Devin",
         phone: "809172487598",
